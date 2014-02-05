@@ -1,5 +1,7 @@
 ﻿
 
+// No License or anything. Feel free to use it anyway you like. 
+// Mentioning the origonal authors name would be greatly appreciated but not necessary at all.
 
 using Contracts;
 using System;
