@@ -1,4 +1,4 @@
-
+﻿
 
 
 // No License or anything. Feel free to use it anyway you like. 
@@ -27,7 +27,7 @@ namespace WcfClient
                 {
                     var result = wcf.Client.Greet("Moim");
 
-                    Console.WriteLine(result);
+                    Console.WriteLine(result); // commented
                 }
             }            
             catch (Exception ex)
