@@ -27,7 +27,7 @@ namespace WcfClient
                 {
                     var result = wcf.Client.Greet("Moim");
 
-                    Console.WriteLine(result); // commented
+                    Console.WriteLine(result); // Removed the comment
                 }
             }            
             catch (Exception ex)
